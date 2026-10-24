@@ -1,0 +1,8 @@
+.env
+*.pem
+*token*
+.secrets/
+renders/
+projects/
+.venv/
+__pycache__/
